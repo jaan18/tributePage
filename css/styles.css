@@ -1,0 +1,41 @@
+* {
+  background-color: azure;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#main > h2 {
+  text-align: center;
+}
+
+#img-div {
+  text-align: center;
+  background-color: white;
+}
+
+#tribute-info {
+  text-align: center;
+  justify-content: center;
+  font-size: larger;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
